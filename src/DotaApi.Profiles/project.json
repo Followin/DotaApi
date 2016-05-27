@@ -1,0 +1,18 @@
+﻿{
+  "version": "1.0.0-*",
+  "description": "DotaApi.Profiles Class Library",
+  "authors": [ "Pavlo_Yeremenko" ],
+  "tags": [ "" ],
+  "projectUrl": "",
+  "licenseUrl": "",
+
+  "frameworks": {
+    "net451": { },
+    "dotnet5.4": {
+    }
+  },
+  "dependencies": {
+    "DotaApi.Dal": "1.0.0-*",
+    "Microsoft.Extensions.DependencyInjection.Abstractions": "1.0.0-rc1-final"
+  }
+}

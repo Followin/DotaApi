@@ -1,0 +1,21 @@
+﻿{
+  "version": "1.0.0-*",
+  "description": "DotaApi.Utils Class Library",
+  "authors": [ "Pavlo_Yeremenko" ],
+  "tags": [ "" ],
+  "projectUrl": "",
+  "licenseUrl": "",
+
+  "frameworks": {
+    "net451": { },
+    "dotnet5.4": {
+      "dependencies": {
+        "System.Runtime.InteropServices": "4.0.21-beta-23516",
+        "System.Threading": "4.0.11-beta-23516"
+      }
+    }
+  },
+  "dependencies": {
+    "System.Collections": "4.0.0-beta-23019"
+  }
+}

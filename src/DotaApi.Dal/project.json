@@ -1,0 +1,25 @@
+﻿{
+  "version": "1.0.0-*",
+  "description": "DotaApi.Dal Class Library",
+  "authors": [ "Pavlo_Yeremenko" ],
+  "tags": [ "" ],
+  "projectUrl": "",
+  "licenseUrl": "",
+
+  "frameworks": {
+    "net451": {
+    },
+    "dotnet5.4": {
+    }
+  },
+  "dependencies": {
+    "DotaApi.Domain": "1.0.0-*",
+    "DotaApi.Utils": "1.0.0-*",
+    "Microsoft.Extensions.Configuration": "1.0.0-rc1-final",
+    "Microsoft.Extensions.Configuration.Json": "1.0.0-rc1-final",
+    "Microsoft.Extensions.DependencyInjection.Abstractions": "1.0.0-rc1-final",
+    "Microsoft.Extensions.OptionsModel": "1.0.0-rc1-final",
+    "Newtonsoft.Json": "8.0.3",
+    "System.Net.Http": "4.0.0"
+  }
+}

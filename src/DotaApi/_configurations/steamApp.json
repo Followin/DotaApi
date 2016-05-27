@@ -1,0 +1,7 @@
+﻿{
+  "AppId": 570,
+  "Key": "9AC7253786F406D0ABBB62FD48EC8F47",
+  "BaseApiUrl": "http://api.steampowered.com",
+  "BaseEconomyUrl": "IEconDOTA2",
+  "BaseMatchUrl": "IDOTA2Match"
+}

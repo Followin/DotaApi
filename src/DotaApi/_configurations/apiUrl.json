@@ -1,0 +1,18 @@
+﻿{
+  "BaseUrl": "http://api.steampowered.com",
+  "BaseImageUrl": "http://cdn.dota2.com/apps/dota2/images",
+  "Matches": {
+    "Base": "IDOTA2Match",
+    "Details": "GetMatchDetails/v1",
+    "History": "GetMatchHistory/v1"
+  },
+  "Economy": {
+    "Base": "IEconDOTA2",
+    "Heroes": "GetHeroes/v1",
+    "Items": "GetGameItems/v1"
+  },
+  "Images": {
+    "Heroes": "heroes",
+    "Items": "items"
+  }
+}
